@@ -13,8 +13,7 @@ The AI vs Human Text Detector project is a machine learning application designed
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Muhirwakyeyune/AI_vs_Human_text_dtedector.git
-
+  
 
 ## Running the Application
 Run the Streamlit web application:   
