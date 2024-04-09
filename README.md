@@ -15,7 +15,12 @@ The AI vs Human Text Detector project is a machine learning application designed
    ```bash
    git clone https://github.com/Muhirwakyeyune/AI_vs_Human_text_dtedector.git
 
-Citation
+
+## Running the Application
+Run the Streamlit web application:   
+streamlit run app.py
+
+## Citation
 If you use this project or find it helpful, please consider citing it:
 
 @misc{learning-agency-lab-automated-essay-scoring-2,
